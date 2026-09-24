@@ -34,4 +34,4 @@ jobs:
         run: |
           mkdir build
           cp app.py build/
-         cp requirements.txt build/
+          cp requirements.txt build/
